@@ -1,2 +1,2 @@
 mystring="hello Py"
-print(mystring[:6])
+print(mystring[::2])
