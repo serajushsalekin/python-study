@@ -1,1 +1,2 @@
-"hello Py"
+mystring="hello Py"
+print(mystring)
